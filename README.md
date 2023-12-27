@@ -115,8 +115,8 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: kabilan T
-RegisterNumber:  212222230059
+Developed by: KEERTHANA S
+RegisterNumber:  212223040092
 */
 ```
 i] SR flipflops
@@ -179,15 +179,21 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS 
 ### SR FLIPFLOP
-![image](https://github.com/22009071/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120206067/f56f9462-634d-4e7b-84b6-85479e44aa39)
+![WhatsApp Image 2023-11-30 at 17 29 56_4e457af1](https://github.com/keerthanasivakumar02/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150827397/8f370091-e2d0-47ab-a338-1daec2d01a8c)
+
 
 ###  JK FLIPFLOP
-![Screenshot 2023-05-25 111231](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/ded7f0d6-ff4e-4785-83d1-3f833fd52305)
+![WhatsApp Image 2023-11-30 at 17 29 56_bfc43978](https://github.com/keerthanasivakumar02/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150827397/bec11029-c1a7-41db-a8ee-99e0facd6639)
+
 ### D FLIPFLOP
 
-![Screenshot 2023-05-25 113912](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/68b33d4b-a601-4d8a-baa1-fc927771a2d9)
+![WhatsApp Image 2023-11-30 at 17 29 55_31f64814](https://github.com/keerthanasivakumar02/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150827397/3a7251ea-d7c4-4d55-8af6-2aa8624b1a9c)
+
+
 ### T FLIPFLOP
-![Screenshot 2023-05-25 114524](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/815d2a33-814c-4a54-93c8-0b01d12bd9a7)
+
+![WhatsApp Image 2023-11-30 at 17 29 56_88fc9f61](https://github.com/keerthanasivakumar02/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150827397/9b9ec340-c3fc-4c83-a368-6241aec0a112)
+
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
@@ -196,13 +202,21 @@ endmodule
 
 
 ### SR FLIPFLOP
-![Screenshot 2023-05-25 105846](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/85bc73e8-0da7-4466-bfd5-47b2d50cc552)
+
+![WhatsApp Image 2023-11-30 at 17 29 59_e1701455](https://github.com/keerthanasivakumar02/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150827397/991730cb-c2f3-4159-a65d-e73c96e896db)
+
 ### JK FLIPFLOP
-![image](https://github.com/NathinR/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118679646/6ad31ca6-c6ae-45fe-bb65-e99fe1304a46)
+
+![WhatsApp Image 2023-11-30 at 17 29 59_4de3674c](https://github.com/keerthanasivakumar02/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150827397/d1de7f3a-1e39-412a-be8b-d3fd5a3d68db)
+
 ###  D FLIPFLOP
-![Screenshot 2023-05-25 114213](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/26228eb3-3075-4cd6-8ba8-96d20b2a3af6)
+
+![WhatsApp Image 2023-11-30 at 17 29 57_ccf5f5cd](https://github.com/keerthanasivakumar02/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150827397/e93bb9a6-1f01-4647-a4be-98d0e3b112fd)
+
 ###   T FLIPFLOP
-![Screenshot 2023-05-25 115138](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/ecae31e1-5fb7-4f70-bf85-d4effffc8492)
+
+
+![WhatsApp Image 2023-11-30 at 17 29 59_2e77fa77](https://github.com/keerthanasivakumar02/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150827397/95150623-1a65-4ff1-90a2-dbe89c622400)
 
 
 
